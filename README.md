@@ -15,6 +15,7 @@
 
 int64有64bit。  
 <tt>00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000</tt>  
+  
 以9bit為一組可以分成7組。  
 <tt>0 ttttttttt uuuuuuuuu vvvvvvvvv wwwwwwwww xxxxxxxxx yyyyyyyyy zzzzzzzzz</tt>  
 
@@ -65,32 +66,32 @@ int64有64bit。
  31 | >
  32 | ?
  33 | @
- 34 | A
- 35 | B
- 36 | C
- 37 | D
- 38 | E
- 39 | F
- 40 | G
- 41 | H
- 42 | I
- 43 | J
- 44 | K
- 45 | L
- 46 | M
- 47 | N
- 48 | O
- 49 | P
- 50 | Q
- 51 | R
- 52 | S
- 53 | T
- 54 | U
- 55 | V
- 56 | W
- 57 | X
- 58 | Y
- 59 | Z
+ 34 | A a
+ 35 | B b
+ 36 | C c
+ 37 | D d
+ 38 | E e
+ 39 | F f
+ 40 | G g
+ 41 | H h
+ 42 | I i
+ 43 | J j
+ 44 | K k
+ 45 | L l
+ 46 | M m
+ 47 | N n
+ 48 | O o
+ 49 | P p
+ 50 | Q q
+ 51 | R r
+ 52 | S s
+ 53 | T t
+ 54 | U u
+ 55 | V v
+ 56 | W w
+ 57 | X x
+ 58 | Y y
+ 59 | Z z
  60 | [
  61 | \
  62 | ]
